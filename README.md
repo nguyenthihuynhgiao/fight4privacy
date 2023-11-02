@@ -2,6 +2,8 @@
 
 Education is the key for protection. 
 
+Idea of this is to be able to provide a link to this to educate people at risk.
+
 One stop site to self-educate on all forms of attacks on privacy including phishing, scams, fraud, statistics, laws and more.
 
 
